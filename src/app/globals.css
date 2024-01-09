@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import "keep-react/css";
+
+html {
+  font-family: "Onest", system-ui, sans-serif;
+  scroll-behavior: smooth;
+}
